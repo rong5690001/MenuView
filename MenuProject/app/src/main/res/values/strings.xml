@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">倾秀</string>
+    <string name="title_activity_blank">BlankActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- title -->
+    <string name="s08_title">时尚情报</string>
+
+    <!-- Settings Activity -->
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings_activity_settings">个人设置</string>
+    <string name="choose_picture_activity_settings">选择图片</string>
+    <string name="personal_picture_activity_settings">个人头像</string>
+    <string name="background_picture_activity_settings">背景图像</string>
+    <string name="manage_activity_settings">管理</string>
+    <string name="trade_manage_activity_settings">订单管理</string>
+    <string name="receiver_manage_activity_settings">收货地址管理</string>
+    <string name="information_activity_settings">基本信息</string>
+    <string name="name_activity_settings">昵称</string>
+    <string name="age_activity_settings">年龄</string>
+    <string name="sex_activity_settings">性别</string>
+    <string name="birth_activity_settings">生日</string>
+    <string name="height_activity_settings">身高</string>
+    <string name="weight_activity_settings">体重</string>
+    <string name="bust_activity_settings">胸围</string>
+    <string name="shoulder_activity_settings">肩宽</string>
+    <string name="waistline_activity_settings">腰围</string>
+    <string name="hipline_activity_settings">臀围</string>
+    <string name="bodyType_activity_settings">体型</string>
+    <string name="dressStyle_activity_settings">穿衣风格</string>
+    <string name="effect_activity_settings">搭配效果</string>
+    <string name="hair_activity_settings">发型</string>
+    <string name="brand_activity_settings">品牌</string>
+    <string name="ref_activity_settings">></string>
+    <string name="others_activity_settings">其他</string>
+    <string name="change_password_activity_settings">更改密码</string>
+    <string name="bonus_activity_settings">佣金账户</string>
+    <string name="change_email_activity_settings">更改邮件地址</string>
+    <string name="inform_activity_settings">通知设定</string>
+    <string name="rules_activity_settings">使用条例</string>
+    <string name="help_activity_settings">帮助</string>
+    <string name="about_vip_activity_settings">关于会员</string>
+    <string name="quit_activity_settings">退出登录</string>
+    <string name="left_ref_activity_settings">back</string>
+    <string name="save_activity_settings">保存</string>
+    <string name="shoes_size_activity_settings">鞋码</string>
+    <string name="clothes_size_activity_settings">服装尺寸</string>
+
+    <!-- Register Activity -->
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register_activity_register">注册</string>
+    <string name="account_activity_register">账号</string>
+    <string name="account_hint_activity_register">输入昵称</string>
+    <string name="password_activity_register">密码</string>
+    <string name="password_hint_activity_register">输入密码</string>
+    <string name="confirm_activity_register">再次输入密码</string>
+    <string name="submit_activity_register">注册倾秀账号</string>
+    <string name="phone_email_activity_register">输入手机号码</string>
+    <string name="verification_code_activity_register">输入验证码</string>
+    <string name="or_activity_register">or</string>
+    <string name="weixin_login_activity_register">微信登录</string>
+    <string name="weibologin_activity_register">微博登录</string>
+    <string name="send_verification_activity_register">获取验证码</string>
+
+    <!-- Login Activity -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_bar_activity_login">登录</string>
+    <string name="register_activity_login">注册</string>
+    <string name="account_hint_activity_login">输入昵称或手机号码</string>
+    <string name="account_activity_login">账号</string>
+    <string name="password_activity_login">密码</string>
+    <string name="password_hint_activity_login">输入密码</string>
+    <string name="login_activity_login">登录倾秀账号</string>
+    <string name="register1_activity_login">注册倾秀账号</string>
+    <string name="login_successed">登录成功</string>
+
+    <!-- Personal Activity -->
+    <string name="title_activity_personal">PersonalActivity</string>
+    <string name="settings_activity_personal">设置</string>
+
+    <!-- EditAddress Activity -->
+    <string name="title_name_activity_addaddress">新增地址</string>
+    <string name="title_name_activity_editaddress">编辑地址</string>
+    <string name="title_activity_address">AddressActivity</string>
+    <string name="save_btn_activity_address">确定</string>
+    <string name="consignee_name">收货人姓名</string>
+    <string name="consignee_phone_num">手机号码</string>
+    <string name="consignee_verification">输入手机验证码</string>
+    <string name="consignee_area">所在区域</string>
+    <string name="consignee_detail_address">详细地址</string>
+
+    <!-- Addresslist Activity -->
+    <string name="title_activity_addresslist">AddressActivity</string>
+    <string name="title_name_activity_addresslist">收货地址管理</string>
+    <string name="name_activity_addresslist">姓名:</string>
+    <string name="phone_activity_addresslist">电话:</string>
+    <string name="address_activity_addresslist">地址:</string>
+    <string name="choose_address_please">请选择收货地址</string>
+
+    <!-- Return Activity -->
+    <string name="title_activity_return">ReturnActivity</string>
+    <string name="title_name_activity_return">退货方式</string>
+    <string name="address_activity_return">退货地址:</string>
+    <string name="address_activity_return_value">上海市普陀区中山北路2438号13楼B座</string>
+    <string name="receiver_activity_return">退货收件人:</string>
+    <string name="receiver_activity_return_value">上海市品聚网络科技有限公司</string>
+    <string name="phone_activity_return">联系电话:</string>
+    <string name="phone_activity_return_value">021-64269853</string>
+    <string name="matters_activity_return">*退货注意事项:</string>
+    <string name="matters_activity_return_value">我们支持七日无理由退换货。如果亲们发现宝贝不合适，请七日内用快递将商品完好地退回（不接受平邮及到付），逾期或洗过，无吊牌等影响2次销售的商品我们是不接受退货的哦，非商品质量问题来回邮费由买家承担。
+退货时务必写明订单号。</string>
+    <string name="info_title_activity_return">填写退货信息</string>
+    <string name="info_expressage_activity_return">货运公司:</string>
+    <string name="info_expressNO_activity_return">货运单号:</string>
+    <string name="info_expressDate_activity_return">寄出日期:</string>
+    <string name="sure_btn_activity_return">申请退货</string>
+    <string name="toast_activity_return">退货请求已发送</string>
+    <string name="toast_activity_discount_successed">申请成功</string>
+
+    <!-- Others -->
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_s01_home">倾秀</string>
+    <string name="title_activity_s03_show">S03SHowActivity</string>
+    <string name="title_activity_s05_product">S05ProductActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_s02_show_classify">S02ShowClassify</string>
+    <string name="title_activity_s04_comment">S04CommentActivity</string>
+    <string name="title_activity_p03_brand_list">P03BrandListActivity</string>
+    <string name="title_activity_p01_model_list">P01ModelListActivity</string>
+    <string name="prompt">提示</string>
+    <string name="exit_app">你确定要退出应用吗?</string>
+    <string name="confirm">确定</string>
+    <string name="cancels">取消</string>
+    <string name="dismiss">隐藏</string>
+    <string name="delete">删除</string>
+    <string name="delete_finish">删除成功</string>
+    <string name="edit">编辑</string>
+    <string name="title_activity_p04_brand">P04BrandActivity</string>
+    <string name="title_activity_p02_model">P02ModelActivity</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_s07_collect">S07CollectActivity</string>
+    <string name="title_activity_s05_item">S05ItemActivity</string>
+    <string name="title_activity_s08_trend">S08TrendActivity</string>
+    <string name="title_activity_launch">倾秀</string>
+
+    <!-- S01Home Activity -->
+    <string name="menu_open">open</string>
+    <string name="menu_close">close</string>
+
+    <!-- title -->
+    <string name="s02_title_name">潮流单品</string>
+    <string name="s17_title_name">美搭榜单</string>
+
+    <!-- comm -->
+    <string name="no_more_data">没有更多数据了！</string>
+    <string name="need_login">请先登录</string>
+    <string name="check_wifi">请检查网络</string>
+    <string name="brand_not_exist">非常抱歉，店铺已不存在</string>
+    <string name="item_not_exist">商品不存在</string>
+    <string name="image_not_exist">商品没有图片</string>
+    <string name="get_bonuses_label">获得佣金：</string>
+
+    <!-- trade -->
+    <string name="title_name_activity_trade">订单管理</string>
+    <string name="apply_change_activity_trade">申请换货</string>
+    <string name="apply_return_activity_trade">申请退货</string>
+    <string name="comfirm_receive_activity_trade">确认收货</string>
+    <string name="service_text">客服热线:</string>
+    <string name="service_phone_number">4007- 501- 010</string>
+    <string name="service_describe1">7天退货</string>
+    <string name="service_describe2">极速发货</string>
+    <string name="service_describe3">全场免运</string>
+    <string name="service_describe4">品质保证</string>
+    <string name="trade_num_text">订单号:</string>
+    <string name="trade_type_text">订单状态:</string>
+    <string name="trade_measurement">尺码：</string>
+    <string name="trade_count">数量：</string>
+    <string name="trade_color">颜色:</string>
+    <string name="trade_price">折后价格:</string>
+    <string name="trade_create_date">订单生成日期:</string>
+    <string name="trade_finish_date">订单完成日期:</string>
+    <string name="pay_activity_trade">付款</string>
+    <string name="pay_please">请确认付款</string>
+
+    <!-- dialog -->
+    <string name="dialog_comfirm">确认</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="title_activity_s14_fashion_msg">S14FashionMsgActivity</string>
+    <string name="title_activity_g02_welcome">G02WelcomeActivity</string>
+    <string name="guide_pager1_title">倾秀</string>
+    <string name="guide_pager2_title">潮流的搭配</string>
+    <string name="guide_pager3_title">个性化推送</string>
+    <string name="guide_pager1_describe">一个为你独家定制的</string>
+    <string name="guide_pager1_describe1">服装搭配应用平台</string>
+    <string name="guide_pager2_describe">即使没有女神的身材</string>
+    <string name="guide_pager2_describe1">也可以有女神的风范</string>
+    <string name="guide_pager3_describe">每天推送适合你的搭配</string>
+    <string name="guide_pager3_describe1">和最潮流的资讯</string>
+    <string name="title_activity_u14_collection">U14CollectionActivity</string>
+
+    <string name="title_collection">我的收藏</string>
+
+    <string name="title_activity_u13_person">个人信息</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_s01_match_shows">S01MatchShowsActivity</string>
+
+    <string name="s20_dialog">确定删除？</string>
+    <string name="s20_notify_more">图片被遮挡太多,请调整</string>
+
+    <string name="s20_loading">上传中...</string>
+    <string name="s06_loading">登录中...</string>
+    <string name="web_view">加载中...</string>
+
+    <string name="s11_discount">折</string>
+    <string name="s11_price">原价：</string>
+    <string name="s11_jian">件</string>
+    <string name="s11_poster">●折扣活动商品数量尺寸有限，请抓紧时间抢购,</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_city">CityActivity</string>
+
+    <string name="only_number">0123456789</string>
+
+    <!-- U15BonusActivity -->
+    <string name="title_activity_u15_bonus">U15BonusActivity</string>
+    <string name="u15_mybonus">我的佣金</string>
+    <string name="u15_total_bonus">佣金总计：</string>
+    <string name="u15_balance">未提现：</string>
+    <string name="u15_hint_edit">请输入支付宝账号</string>
+    <string name="u15_hint">*提现后，款项将在48小时内转至您的账户</string>
+    <string name="u15_btn_text">分享APP获取佣金</string>
+    <string name="u15_title_right_btn">佣金明细</string>
+    <string name="title_activity_u16_bonus_list">U16BonusListActivity</string>
+    <string name="title_activity_t01_highlighted_trade_list">T01HighlightedTradeListActivity</string>
+
+    <!-- T01-->
+    <string name="title_t01">潮人晒单</string>
+    <string name="t01_successed_discount">成功购买折扣：</string>
+    <string name="t01_successed_price">成功购买价格：</string>
+    <string name="s10_scale_close">"这款商品的活动已结束"</string>
+    <string name="s20_notify_load_image_unfinished">不要着急，奋力加载图片中···</string>
+</resources>
